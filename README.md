@@ -1,16 +1,13 @@
-# flutter_application_1
+App developed as a replacement for the god-awful Westlake Boys' High School [Portal](portal.westlake.school.nz), notorious for being shitty on desktop, let alone mobile. WIth the new portal being introduced, and the old portal being sunsetted, this is mainly for archival purposes.
 
-A new Flutter project.
+Features:
+ - One time login
+ - Interactive attendence chart
+ - Android widget to quickly access NCEA info
 
-## Getting Started
+Build: 
+ - Clone the repo, and then make sure you have flutter installed. To build for mobile, import the project into Android Studio and build the APK there. Make sure to install all packages required!
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+ 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
